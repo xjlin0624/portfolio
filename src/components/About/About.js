@@ -17,8 +17,8 @@ function About() {
           <ScrollAnimation animateIn="fadeInLeft">
         <div className="BigCard">
           <Image
-            src="/man-svgrepo-com.svg"
-            alt="man-svgrepo"
+            src="/my-grad-pic.svg"
+            alt="my-grad-pic"
           />
           <div className="AboutBio">
             Hello! My name is <strong>Xuelan Lin</strong>. I'm originally from China and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
