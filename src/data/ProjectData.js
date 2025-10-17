@@ -14,7 +14,7 @@ export const ProjectList = [
     title: "Pacman - AI Game Agent",
     description:
       "Academic project exploring search algorithms, reinforcement learning, and probabilistic inference.",
-    tech_stack: ["Python"],
+    tech_stack: ["Python", "reinforcement learning", "probabilistic inference"],
     github_url: "https://github.com/xjlin0624/CS188-Intro-to-AI",
     demo_url: "",
   },

@@ -5,8 +5,8 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 const SocialContainer = styled.div`
   position: fixed;
-  top: 48%;
-  left: 1.5rem;
+  top: 90.5%;
+  left: 0.5rem;
   transform: translateY(-50%);
 
   ul {

@@ -35,41 +35,41 @@ export const HeroWrapper = styled.div`
 `;
 
 export const HeroLeft = styled.div`
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  text-align: left;
-  flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    flex: 1;
 
-  h1 {
-    font-size: 2.8rem;
-    color: #f6f6f6;
-    opacity: 0.98;
-    font-weight: 400;
-  }
-
-  h5 {
-    font-size: 1.6rem;
-    color: rgb(119, 119, 121);
-    margin-bottom: 1rem;
-    font-weight: 400;
-  }
-
-  p {
-    font-size: 17px;
-    color: #f6f6f6;
-    opacity: 0.85;
-  }
-
-  @media screen and (max-width: 992px) {
-    text-align: center;
-    align-items: center;
-    margin-bottom: 2rem;
+    h1 {
+        font-size: 2.8rem;
+        color: #f6f6f6;
+        opacity: 0.98;
+        font-weight: 400;
+    }
 
     h5 {
-      min-height: 5rem;
-  }
+        font-size: 1.6rem;
+        color: rgb(64, 64, 64);
+        margin-bottom: 1rem;
+        font-weight: 400;
+    }
+
+    p {
+        font-size: 17px;
+        color: #f6f6f6;
+        opacity: 0.85;
+    }
+
+    @media screen and (max-width: 992px) {
+        text-align: center;
+        align-items: center;
+        margin-bottom: 2rem;
+
+        h5 {
+            min-height: 5rem;
+        }
 `;
 
 export const HeroRight = styled.div`

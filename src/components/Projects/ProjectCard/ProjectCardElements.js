@@ -10,10 +10,10 @@ export const Card = styled.div`
   border-radius: 10px;
   box-shadow: 0 5px 15px -3px rgba(0, 0, 0, 0.1),
     0 4px 6px -2px rgba(0, 0, 0, 0.05);
-  @media (min-width: 992px) {
+  padding-right: 0.5rem;
+    @media (min-width: 992px) {
     grid-template-columns: 1fr 1fr;
     border-bottom: 0;
-    padding-bottom: 0;
   }
 `;
 
@@ -64,6 +64,7 @@ export const TechCardContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  margin-bottom: 10px;
   @media (min-width: 992px) {
     justify-content: flex-start;
   }
