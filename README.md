@@ -1,5 +1,7 @@
 **Portfolio**
 
+Live Preview - [Click Here](https://xjlin0624.github.io/)
+
 # 🛠 Installation and Setup Instructions
 
 1. Fork and clone this repository. You will need NodeJs and Git installed on your machine..
