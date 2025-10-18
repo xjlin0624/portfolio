@@ -61,6 +61,13 @@ function Dropdown({ isOpen, toggle }) {
     <SiderBar isOpen={isOpen} onClick={toggle}>
       <CloseIcon onClick={toggle} />
       <NavMenu>
+          <NavLink
+              onClick={toggle}
+              className="menu-item"
+              to="experience"
+          >
+              Experience
+          </NavLink>
         <NavLink
           onClick={toggle}
           className="menu-item"
