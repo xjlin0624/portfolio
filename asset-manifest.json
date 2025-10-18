@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2643d73d.css",
+    "main.js": "/static/js/main.6a9f207f.js",
+    "static/media/tsingtao.svg": "/static/media/tsingtao.997cacb26c7681a07f3b.svg",
+    "index.html": "/index.html",
+    "main.2643d73d.css.map": "/static/css/main.2643d73d.css.map",
+    "main.6a9f207f.js.map": "/static/js/main.6a9f207f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2643d73d.css",
+    "static/js/main.6a9f207f.js"
+  ]
+}
