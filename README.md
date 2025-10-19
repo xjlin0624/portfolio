@@ -1,6 +1,6 @@
 **Portfolio**
 
-Live Preview - [Click Here](https://xjlin0624.github.io/)
+Live Preview
 
 # 🛠 Installation and Setup Instructions
 
