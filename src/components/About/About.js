@@ -21,9 +21,9 @@ function About() {
             alt="my-grad-pic"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Xuelan Lin</strong>. I'm originally from China and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Hello! My name is <strong>Xuelan Lin</strong> and I also goes by <strong>Joanna</strong> :D. I'm originally from China and have been going to school in the United States. I graduated from UC Berkeley in May 2024 majoring in Data Science and Chemical Biology, and decided to pursue a more technical journey through working towards my Master of Science degree in Computer Science at Northeastern University.
 
-            <br /><br />
+              <br /><br />
             
             My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
             Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
@@ -46,6 +46,11 @@ function About() {
                 </ScrollAnimation>
               ))}
             </Technologies>
+
+              <br /><br />
+
+              In my free time, I love to dance and go out into the nature. I was the captain of one of our competitive dance teams at UC Berkeley and have organized multiple social events and competition logistics, and I am confident to say I have built a healthy and trusting team environment for our members. Please watch <a href={'https://www.youtube.com/watch?v=R7aFGuhRD5k'} className={"afx"} target={"_blank"} rel={"noopener noreferrer"}>our set</a> that place 3rd at Maxt Out Dance Competition if you're interested!
+
           </div>
         </div>
       </ScrollAnimation>

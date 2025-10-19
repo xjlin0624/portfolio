@@ -30,7 +30,14 @@ a {
   color: inherit;
   background-color: transparent;
   transition: 0.2s ease-in;
+}
 
+.afx {
+    color: cornflowerblue;
+}
+
+.afx:hover {
+    color: darkslateblue;
 }
 
 ul,

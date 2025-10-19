@@ -5,7 +5,7 @@ export const Card = styled.div`
   grid-gap: 2rem;
   margin-bottom: 4rem;
   grid-template-columns: 1fr;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   overflow: hidden;
   border-radius: 10px;
   box-shadow: 0 5px 15px -3px rgba(0, 0, 0, 0.1),
@@ -82,5 +82,5 @@ export const TechCard = styled.div`
   font-weight: 400;
   color: rgba(0, 0, 0, 0.815);
   cursor: default;
-  box-shadow: 0px 2px 5px rgba(160, 170, 180, 0.6);
+  box-shadow: 0 2px 5px rgba(160, 170, 180, 0.6);
 `;
