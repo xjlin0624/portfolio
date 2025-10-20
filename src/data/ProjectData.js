@@ -74,6 +74,10 @@ export const stackList = [
     name: "NodeJS",
   },
   {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg",
+    name: "npm",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg",
     name: "ExpressJS",
   },

@@ -17,7 +17,7 @@ function About() {
           <ScrollAnimation animateIn="fadeInLeft">
         <div className="BigCard">
           <Image
-            src="/my-grad-pic.svg"
+            src={`${process.env.PUBLIC_URL}/my-grad-pic.svg`}
             alt="my-grad-pic"
           />
           <div className="AboutBio">
@@ -25,12 +25,12 @@ function About() {
 
               <br /><br />
             
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            {/*My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.*/}
+            {/*Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.*/}
 
-            <br /><br />
+            {/*<br /><br />*/}
 
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+              {/*Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.*/}
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
