@@ -47,7 +47,7 @@ function About() {
 
               <br /><br />
 
-              In my free time, I love to dance and go out into the nature. I was the captain of one of our competitive dance teams at UC Berkeley and have organized multiple social events and competition logistics, and I am confident to say I have built a healthy and trusting team environment for our members. Please watch <a href={'https://www.youtube.com/watch?v=R7aFGuhRD5k'} className={"afx"} target={"_blank"} rel={"noopener noreferrer"}>our set</a> that place 3rd at Maxt Out Dance Competition if you're interested!
+              In my free time, I love to dance and go out into the nature! I was the captain of one of our competitive dance teams at UC Berkeley and have organized multiple social events and competition logistics, and I am confident to say I have built a healthy and trusting team environment for our members. Please watch <a href={'https://www.youtube.com/watch?v=R7aFGuhRD5k'} className={"afx"} target={"_blank"} rel={"noopener noreferrer"}>our set</a> that place 3rd at Maxt Out Dance Competition if you're interested!
 
           </div>
         </div>
