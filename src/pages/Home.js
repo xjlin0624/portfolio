@@ -11,7 +11,7 @@ function Home() {
   return (
     <>
       <Hero />
-      <Experience />
+      {/*<Experience />*/}
       <Projects />
       <About />
       <Contact />

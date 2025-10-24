@@ -21,8 +21,8 @@ export const ProjectList = [
   {
     img: "/mymind-responsive.png",
     title: "Deciphering and Targeting Resiliency Pathways in Arctic Ground Squirrels",
-    description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
+    description: "",
+      // "An app where users can purchase online therapy sessions and chat with their therapists.",
     tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
     github_url: "",
     demo_url: "https://mymindweb.vercel.app/",
@@ -30,8 +30,8 @@ export const ProjectList = [
   {
     img: "/pokedex-responsive.png",
     title: "Gitlet - Version Control System",
-    description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
+    description: "",
+      // "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
     github_url: "https://github.com/xjlin0624/CS61B",
     demo_url: "",

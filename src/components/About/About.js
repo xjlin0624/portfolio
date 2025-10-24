@@ -21,7 +21,7 @@ function About() {
             alt="my-grad-pic"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Xuelan Lin</strong> and I also goes by <strong>Joanna</strong> :D. I'm originally from China and have been going to school in the United States. I graduated from UC Berkeley in May 2024 majoring in Data Science and Chemical Biology, and decided to pursue a more technical journey through working towards my Master of Science degree in Computer Science at Northeastern University.
+            Hello! My name is <strong>Xuelan Lin</strong> and I also go by <strong>Joanna</strong> :D. I'm originally from China and have been going to school in the United States. I graduated from UC Berkeley in May 2024 majoring in Data Science and Chemical Biology, and decided to pursue a more technical journey through working towards my Master of Science degree in Computer Science at Northeastern University.
 
               <br /><br />
             
